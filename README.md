@@ -4,7 +4,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lclaros/example2-ng2e/master/mockups/home.png"/>
+</p>
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
