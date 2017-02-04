@@ -1,4 +1,4 @@
-# Example2Ng2
+# Test example to work with angular 2 features
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
 
